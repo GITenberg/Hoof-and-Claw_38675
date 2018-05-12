@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2272
     wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38675#Hoof-and-Claw
 gutenberg_issued: '2012-01-26'
 gutenberg_type: Text
 identifiers:
