@@ -1,0 +1,44 @@
+_repo: Hoof-and-Claw_38675
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bransom, Paul
+    birthdate: 1885
+    deathdate: 1979
+    gutenberg_agent_id: '32920'
+    url: http://www.gutenberg.org/2009/agents/32920
+covers:
+- cover_type: archival
+  image_path: 38675-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Sir Charles George Douglas
+    - Roberts, Charles George Douglas, Sir
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2012-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Fiction'
+- !lcc 'QL'
+- !lcc 'PR'
+- !lcsh 'Animals -- Anecdotes'
+tableOfContents: The bear that thought he was a dog -- The trail of the vanishing
+  herds -- A master of supply -- The white wolf -- Up a tree -- The eyes in the bush
+  -- The runners of the high peaks -- The pool -- The shadows and John Hatch -- The
+  fisher in the chutes -- The assault of wings -- The cabin door -- A basket of fish
+  -- Brannigan's Mary.
+title: Hoof and Claw
+url: http://www.gutenberg.org/ebooks/38675
